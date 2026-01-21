@@ -1,4 +1,4 @@
-# Prime Intellect Guidelines
+# Prime Intellect Skills
 
 A collection of skills and guidelines for working with Prime Intellect's platform and tools.
 
