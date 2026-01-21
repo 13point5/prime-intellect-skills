@@ -8,7 +8,7 @@ This repository contains documentation and reference materials for Prime Intelle
 
 ## Skills
 
-### 🚀 [Prime Intellect API](./skills/prime-intellect-api/)
+### 🚀 [Prime Intellect API](./skills/prime-intellect-api/SKILL.md)
 
 Complete API reference for Prime Intellect's GPU cloud platform. Includes documentation for:
 
