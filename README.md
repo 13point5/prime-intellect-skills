@@ -6,6 +6,14 @@ A collection of skills and guidelines for working with Prime Intellect's platfor
 
 This repository contains documentation and reference materials for Prime Intellect's ecosystem. Each skill provides detailed API references, usage examples, and best practices for specific components of the Prime Intellect platform.
 
+## Installation
+
+Install this skill repository using the [Skills Ecosystem CLI](https://skills.sh/):
+
+```bash
+npx skills add 13point5/prime-intellect-skills
+```
+
 ## Skills
 
 ### 🚀 [Prime Intellect API](./skills/prime-intellect-api/SKILL.md)
